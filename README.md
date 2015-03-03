@@ -45,7 +45,7 @@ This is originally from [@saturngod's](https://github.com/saturngod) [Rabbit](ht
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
-**Stars to both [Packagist](https://packagist.org/packages/setkyar/mmfont/) and [Here](https://github.com/setkyar/mmfont) are welcome :smile:**
+**Your star make me :smile: too, don't miss to gave it!**
 
 ## License
 WTFPL
