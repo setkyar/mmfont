@@ -1,10 +1,22 @@
 # Mmfont
 
+Simple package which converts zawgyi1 <=> unicode strings. I try to be on [packagist](https://packagist.org/packages/setkyar/mmfont), the codes come from [saturngod's Rabbit](https://github.com/saturngod/Rabbit)
 
 ## Installation
 
+Create `composer.json` and add the following
+
+    {
+      "require" : {
+        "setkyar/mmfont" : "dev-master"
+      }
+    }
+
+And run `$ composer install` via your terminal
 
 ## Usage
+
+Create new php file and add the following 
 
     <?php
     
@@ -28,6 +40,7 @@
     echo "Unicode to  Zaw Gyi " . $mmfont->uni2zg1('မြန်မာစာ');
     echo "<br>";
     echo "Zaw Gyi to Unicode " . $mmfont->zg12uni('ျမန္မာစာ');
+
 
 ## Todo
 
