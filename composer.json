@@ -2,7 +2,7 @@
     "name": "setkyar/mmfont",
     "description": "A simple Composer Package which converts zawgyi1 <=> unicode strings",
     "license": "WTFPL",
-    "keywords": ["money format"],
+    "keywords": ["myanmar font converter"],
     "authors": [
         {
             "name": "setkyar",
