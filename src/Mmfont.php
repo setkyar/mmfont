@@ -1,6 +1,5 @@
 <?php namespace SetKyar\Mmfont;
 
-
 class Mmfont
 {
 	public function uni2zg1($unicode='')
